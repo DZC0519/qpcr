@@ -1,0 +1,40 @@
+template_version: 1
+task:
+  mode: Extend
+  requested_changes:
+    - 在原版板图上支持 Ctrl 多选的跨行、间隔孔位精确分配组别、样本和基因
+    - 保留原有整行、整列分组以及 96/384 孔自动识别
+  non_goals:
+    - 顺序循环布局生成器
+    - 跨板归一化
+product:
+  name: qPCR 分析助手
+  version: 2.1.0
+  domain: qPCR 相对定量分析
+  primary_user: 本地 Windows 实验人员
+  offline_core: true
+platform:
+  operating_system: Windows 10/11 x64
+  shell: PySide6
+  distribution: portable onedir ZIP
+workflow:
+  primary:
+    - 导入 xlsx/csv 机器数据
+    - 在 96/384 孔板上 Ctrl 多选任意连续复孔块
+    - 将组别和样本号精确应用到所选孔
+    - 将基因应用到跨行所选孔，并按样本编号技术复孔
+    - QC、分析、保存工程并导出 Excel/SVG
+data_contract:
+  raw_machine_data_mutable: false
+  project_schema: 2
+  mapping_scopes:
+    axis: 整行或整列作为独立生物样本
+    well: 精确所选孔使用显式组别和样本号
+  exact_selection_sample_id: "{group}-{sample_number}"
+privacy:
+  user_workbooks_in_distribution: false
+delivery:
+  source_root: work/qpcr_analyzer
+  portable_folder: outputs/qPCR分析助手-portable-win64
+  portable_zip: outputs/qPCR分析助手-portable-win64.zip
+  source_zip: outputs/qPCR分析助手-source.zip

@@ -1,0 +1,3862 @@
+{
+  "schema_version": 2,
+  "assignments": {
+    "A1": {
+      "well": "A1",
+      "sample": "Ctrl-1",
+      "group": "Ctrl",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "A"
+    },
+    "A2": {
+      "well": "A2",
+      "sample": "Ctrl-1",
+      "group": "Ctrl",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "A"
+    },
+    "A3": {
+      "well": "A3",
+      "sample": "Ctrl-1",
+      "group": "Ctrl",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "A"
+    },
+    "A4": {
+      "well": "A4",
+      "sample": "Ctrl-1",
+      "group": "Ctrl",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "A"
+    },
+    "A5": {
+      "well": "A5",
+      "sample": "Ctrl-1",
+      "group": "Ctrl",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "A"
+    },
+    "A6": {
+      "well": "A6",
+      "sample": "Ctrl-1",
+      "group": "Ctrl",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "A"
+    },
+    "A7": {
+      "well": "A7",
+      "sample": "Ctrl-1",
+      "group": "Ctrl",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "A"
+    },
+    "A8": {
+      "well": "A8",
+      "sample": "Ctrl-1",
+      "group": "Ctrl",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "A"
+    },
+    "A9": {
+      "well": "A9",
+      "sample": "Ctrl-1",
+      "group": "Ctrl",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "A"
+    },
+    "A10": {
+      "well": "A10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A11": {
+      "well": "A11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A12": {
+      "well": "A12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A13": {
+      "well": "A13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A14": {
+      "well": "A14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A15": {
+      "well": "A15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A16": {
+      "well": "A16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A17": {
+      "well": "A17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A18": {
+      "well": "A18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A19": {
+      "well": "A19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A20": {
+      "well": "A20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A21": {
+      "well": "A21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A22": {
+      "well": "A22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A23": {
+      "well": "A23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "A24": {
+      "well": "A24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "A"
+    },
+    "B1": {
+      "well": "B1",
+      "sample": "Ctrl-2",
+      "group": "Ctrl",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "B"
+    },
+    "B2": {
+      "well": "B2",
+      "sample": "Ctrl-2",
+      "group": "Ctrl",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "B"
+    },
+    "B3": {
+      "well": "B3",
+      "sample": "Ctrl-2",
+      "group": "Ctrl",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "B"
+    },
+    "B4": {
+      "well": "B4",
+      "sample": "Ctrl-2",
+      "group": "Ctrl",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "B"
+    },
+    "B5": {
+      "well": "B5",
+      "sample": "Ctrl-2",
+      "group": "Ctrl",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "B"
+    },
+    "B6": {
+      "well": "B6",
+      "sample": "Ctrl-2",
+      "group": "Ctrl",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "B"
+    },
+    "B7": {
+      "well": "B7",
+      "sample": "Ctrl-2",
+      "group": "Ctrl",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "B"
+    },
+    "B8": {
+      "well": "B8",
+      "sample": "Ctrl-2",
+      "group": "Ctrl",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "B"
+    },
+    "B9": {
+      "well": "B9",
+      "sample": "Ctrl-2",
+      "group": "Ctrl",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "B"
+    },
+    "B10": {
+      "well": "B10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B11": {
+      "well": "B11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B12": {
+      "well": "B12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B13": {
+      "well": "B13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B14": {
+      "well": "B14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B15": {
+      "well": "B15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B16": {
+      "well": "B16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B17": {
+      "well": "B17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B18": {
+      "well": "B18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B19": {
+      "well": "B19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B20": {
+      "well": "B20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B21": {
+      "well": "B21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B22": {
+      "well": "B22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B23": {
+      "well": "B23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "B24": {
+      "well": "B24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "B"
+    },
+    "C1": {
+      "well": "C1",
+      "sample": "Model-1",
+      "group": "Model",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "C"
+    },
+    "C2": {
+      "well": "C2",
+      "sample": "Model-1",
+      "group": "Model",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "C"
+    },
+    "C3": {
+      "well": "C3",
+      "sample": "Model-1",
+      "group": "Model",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "C"
+    },
+    "C4": {
+      "well": "C4",
+      "sample": "Model-1",
+      "group": "Model",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "C"
+    },
+    "C5": {
+      "well": "C5",
+      "sample": "Model-1",
+      "group": "Model",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "C"
+    },
+    "C6": {
+      "well": "C6",
+      "sample": "Model-1",
+      "group": "Model",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "C"
+    },
+    "C7": {
+      "well": "C7",
+      "sample": "Model-1",
+      "group": "Model",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "C"
+    },
+    "C8": {
+      "well": "C8",
+      "sample": "Model-1",
+      "group": "Model",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "C"
+    },
+    "C9": {
+      "well": "C9",
+      "sample": "Model-1",
+      "group": "Model",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "C"
+    },
+    "C10": {
+      "well": "C10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C11": {
+      "well": "C11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C12": {
+      "well": "C12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C13": {
+      "well": "C13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C14": {
+      "well": "C14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C15": {
+      "well": "C15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C16": {
+      "well": "C16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C17": {
+      "well": "C17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C18": {
+      "well": "C18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C19": {
+      "well": "C19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C20": {
+      "well": "C20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C21": {
+      "well": "C21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C22": {
+      "well": "C22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C23": {
+      "well": "C23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "C24": {
+      "well": "C24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "C"
+    },
+    "D1": {
+      "well": "D1",
+      "sample": "Model-2",
+      "group": "Model",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "D"
+    },
+    "D2": {
+      "well": "D2",
+      "sample": "Model-2",
+      "group": "Model",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "D"
+    },
+    "D3": {
+      "well": "D3",
+      "sample": "Model-2",
+      "group": "Model",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "D"
+    },
+    "D4": {
+      "well": "D4",
+      "sample": "Model-2",
+      "group": "Model",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "D"
+    },
+    "D5": {
+      "well": "D5",
+      "sample": "Model-2",
+      "group": "Model",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "D"
+    },
+    "D6": {
+      "well": "D6",
+      "sample": "Model-2",
+      "group": "Model",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "D"
+    },
+    "D7": {
+      "well": "D7",
+      "sample": "Model-2",
+      "group": "Model",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "D"
+    },
+    "D8": {
+      "well": "D8",
+      "sample": "Model-2",
+      "group": "Model",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "D"
+    },
+    "D9": {
+      "well": "D9",
+      "sample": "Model-2",
+      "group": "Model",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "D"
+    },
+    "D10": {
+      "well": "D10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D11": {
+      "well": "D11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D12": {
+      "well": "D12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D13": {
+      "well": "D13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D14": {
+      "well": "D14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D15": {
+      "well": "D15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D16": {
+      "well": "D16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D17": {
+      "well": "D17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D18": {
+      "well": "D18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D19": {
+      "well": "D19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D20": {
+      "well": "D20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D21": {
+      "well": "D21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D22": {
+      "well": "D22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D23": {
+      "well": "D23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "D24": {
+      "well": "D24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "D"
+    },
+    "E1": {
+      "well": "E1",
+      "sample": "Low-1",
+      "group": "Low",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "E"
+    },
+    "E2": {
+      "well": "E2",
+      "sample": "Low-1",
+      "group": "Low",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "E"
+    },
+    "E3": {
+      "well": "E3",
+      "sample": "Low-1",
+      "group": "Low",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "E"
+    },
+    "E4": {
+      "well": "E4",
+      "sample": "Low-1",
+      "group": "Low",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "E"
+    },
+    "E5": {
+      "well": "E5",
+      "sample": "Low-1",
+      "group": "Low",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "E"
+    },
+    "E6": {
+      "well": "E6",
+      "sample": "Low-1",
+      "group": "Low",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "E"
+    },
+    "E7": {
+      "well": "E7",
+      "sample": "Low-1",
+      "group": "Low",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "E"
+    },
+    "E8": {
+      "well": "E8",
+      "sample": "Low-1",
+      "group": "Low",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "E"
+    },
+    "E9": {
+      "well": "E9",
+      "sample": "Low-1",
+      "group": "Low",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "E"
+    },
+    "E10": {
+      "well": "E10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E11": {
+      "well": "E11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E12": {
+      "well": "E12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E13": {
+      "well": "E13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E14": {
+      "well": "E14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E15": {
+      "well": "E15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E16": {
+      "well": "E16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E17": {
+      "well": "E17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E18": {
+      "well": "E18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E19": {
+      "well": "E19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E20": {
+      "well": "E20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E21": {
+      "well": "E21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E22": {
+      "well": "E22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E23": {
+      "well": "E23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "E24": {
+      "well": "E24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "E"
+    },
+    "F1": {
+      "well": "F1",
+      "sample": "Low-2",
+      "group": "Low",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "F"
+    },
+    "F2": {
+      "well": "F2",
+      "sample": "Low-2",
+      "group": "Low",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "F"
+    },
+    "F3": {
+      "well": "F3",
+      "sample": "Low-2",
+      "group": "Low",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "F"
+    },
+    "F4": {
+      "well": "F4",
+      "sample": "Low-2",
+      "group": "Low",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "F"
+    },
+    "F5": {
+      "well": "F5",
+      "sample": "Low-2",
+      "group": "Low",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "F"
+    },
+    "F6": {
+      "well": "F6",
+      "sample": "Low-2",
+      "group": "Low",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "F"
+    },
+    "F7": {
+      "well": "F7",
+      "sample": "Low-2",
+      "group": "Low",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "F"
+    },
+    "F8": {
+      "well": "F8",
+      "sample": "Low-2",
+      "group": "Low",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "F"
+    },
+    "F9": {
+      "well": "F9",
+      "sample": "Low-2",
+      "group": "Low",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "F"
+    },
+    "F10": {
+      "well": "F10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F11": {
+      "well": "F11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F12": {
+      "well": "F12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F13": {
+      "well": "F13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F14": {
+      "well": "F14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F15": {
+      "well": "F15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F16": {
+      "well": "F16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F17": {
+      "well": "F17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F18": {
+      "well": "F18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F19": {
+      "well": "F19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F20": {
+      "well": "F20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F21": {
+      "well": "F21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F22": {
+      "well": "F22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F23": {
+      "well": "F23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "F24": {
+      "well": "F24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "F"
+    },
+    "G1": {
+      "well": "G1",
+      "sample": "Med-1",
+      "group": "Med",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "G"
+    },
+    "G2": {
+      "well": "G2",
+      "sample": "Med-1",
+      "group": "Med",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "G"
+    },
+    "G3": {
+      "well": "G3",
+      "sample": "Med-1",
+      "group": "Med",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "G"
+    },
+    "G4": {
+      "well": "G4",
+      "sample": "Med-1",
+      "group": "Med",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "G"
+    },
+    "G5": {
+      "well": "G5",
+      "sample": "Med-1",
+      "group": "Med",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "G"
+    },
+    "G6": {
+      "well": "G6",
+      "sample": "Med-1",
+      "group": "Med",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "G"
+    },
+    "G7": {
+      "well": "G7",
+      "sample": "Med-1",
+      "group": "Med",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "G"
+    },
+    "G8": {
+      "well": "G8",
+      "sample": "Med-1",
+      "group": "Med",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "G"
+    },
+    "G9": {
+      "well": "G9",
+      "sample": "Med-1",
+      "group": "Med",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "G"
+    },
+    "G10": {
+      "well": "G10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G11": {
+      "well": "G11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G12": {
+      "well": "G12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G13": {
+      "well": "G13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G14": {
+      "well": "G14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G15": {
+      "well": "G15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G16": {
+      "well": "G16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G17": {
+      "well": "G17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G18": {
+      "well": "G18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G19": {
+      "well": "G19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G20": {
+      "well": "G20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G21": {
+      "well": "G21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G22": {
+      "well": "G22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G23": {
+      "well": "G23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "G24": {
+      "well": "G24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "G"
+    },
+    "H1": {
+      "well": "H1",
+      "sample": "Med-2",
+      "group": "Med",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "H"
+    },
+    "H2": {
+      "well": "H2",
+      "sample": "Med-2",
+      "group": "Med",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "H"
+    },
+    "H3": {
+      "well": "H3",
+      "sample": "Med-2",
+      "group": "Med",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "H"
+    },
+    "H4": {
+      "well": "H4",
+      "sample": "Med-2",
+      "group": "Med",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "H"
+    },
+    "H5": {
+      "well": "H5",
+      "sample": "Med-2",
+      "group": "Med",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "H"
+    },
+    "H6": {
+      "well": "H6",
+      "sample": "Med-2",
+      "group": "Med",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "H"
+    },
+    "H7": {
+      "well": "H7",
+      "sample": "Med-2",
+      "group": "Med",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "H"
+    },
+    "H8": {
+      "well": "H8",
+      "sample": "Med-2",
+      "group": "Med",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "H"
+    },
+    "H9": {
+      "well": "H9",
+      "sample": "Med-2",
+      "group": "Med",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "H"
+    },
+    "H10": {
+      "well": "H10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H11": {
+      "well": "H11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H12": {
+      "well": "H12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H13": {
+      "well": "H13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H14": {
+      "well": "H14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H15": {
+      "well": "H15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H16": {
+      "well": "H16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H17": {
+      "well": "H17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H18": {
+      "well": "H18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H19": {
+      "well": "H19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H20": {
+      "well": "H20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H21": {
+      "well": "H21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H22": {
+      "well": "H22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H23": {
+      "well": "H23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "H24": {
+      "well": "H24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "H"
+    },
+    "I1": {
+      "well": "I1",
+      "sample": "High-1",
+      "group": "High",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "I"
+    },
+    "I2": {
+      "well": "I2",
+      "sample": "High-1",
+      "group": "High",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "I"
+    },
+    "I3": {
+      "well": "I3",
+      "sample": "High-1",
+      "group": "High",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "I"
+    },
+    "I4": {
+      "well": "I4",
+      "sample": "High-1",
+      "group": "High",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "I"
+    },
+    "I5": {
+      "well": "I5",
+      "sample": "High-1",
+      "group": "High",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "I"
+    },
+    "I6": {
+      "well": "I6",
+      "sample": "High-1",
+      "group": "High",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "I"
+    },
+    "I7": {
+      "well": "I7",
+      "sample": "High-1",
+      "group": "High",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "I"
+    },
+    "I8": {
+      "well": "I8",
+      "sample": "High-1",
+      "group": "High",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "I"
+    },
+    "I9": {
+      "well": "I9",
+      "sample": "High-1",
+      "group": "High",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "I"
+    },
+    "I10": {
+      "well": "I10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I11": {
+      "well": "I11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I12": {
+      "well": "I12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I13": {
+      "well": "I13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I14": {
+      "well": "I14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I15": {
+      "well": "I15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I16": {
+      "well": "I16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I17": {
+      "well": "I17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I18": {
+      "well": "I18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I19": {
+      "well": "I19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I20": {
+      "well": "I20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I21": {
+      "well": "I21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I22": {
+      "well": "I22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I23": {
+      "well": "I23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "I24": {
+      "well": "I24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "I"
+    },
+    "J1": {
+      "well": "J1",
+      "sample": "High-2",
+      "group": "High",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "J"
+    },
+    "J2": {
+      "well": "J2",
+      "sample": "High-2",
+      "group": "High",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "J"
+    },
+    "J3": {
+      "well": "J3",
+      "sample": "High-2",
+      "group": "High",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "J"
+    },
+    "J4": {
+      "well": "J4",
+      "sample": "High-2",
+      "group": "High",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "J"
+    },
+    "J5": {
+      "well": "J5",
+      "sample": "High-2",
+      "group": "High",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "J"
+    },
+    "J6": {
+      "well": "J6",
+      "sample": "High-2",
+      "group": "High",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "J"
+    },
+    "J7": {
+      "well": "J7",
+      "sample": "High-2",
+      "group": "High",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "J"
+    },
+    "J8": {
+      "well": "J8",
+      "sample": "High-2",
+      "group": "High",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "J"
+    },
+    "J9": {
+      "well": "J9",
+      "sample": "High-2",
+      "group": "High",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "J"
+    },
+    "J10": {
+      "well": "J10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J11": {
+      "well": "J11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J12": {
+      "well": "J12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J13": {
+      "well": "J13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J14": {
+      "well": "J14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J15": {
+      "well": "J15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J16": {
+      "well": "J16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J17": {
+      "well": "J17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J18": {
+      "well": "J18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J19": {
+      "well": "J19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J20": {
+      "well": "J20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J21": {
+      "well": "J21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J22": {
+      "well": "J22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J23": {
+      "well": "J23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "J24": {
+      "well": "J24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "J"
+    },
+    "K1": {
+      "well": "K1",
+      "sample": "Pos-1",
+      "group": "Pos",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "K"
+    },
+    "K2": {
+      "well": "K2",
+      "sample": "Pos-1",
+      "group": "Pos",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "K"
+    },
+    "K3": {
+      "well": "K3",
+      "sample": "Pos-1",
+      "group": "Pos",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "K"
+    },
+    "K4": {
+      "well": "K4",
+      "sample": "Pos-1",
+      "group": "Pos",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "K"
+    },
+    "K5": {
+      "well": "K5",
+      "sample": "Pos-1",
+      "group": "Pos",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "K"
+    },
+    "K6": {
+      "well": "K6",
+      "sample": "Pos-1",
+      "group": "Pos",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "K"
+    },
+    "K7": {
+      "well": "K7",
+      "sample": "Pos-1",
+      "group": "Pos",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "K"
+    },
+    "K8": {
+      "well": "K8",
+      "sample": "Pos-1",
+      "group": "Pos",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "K"
+    },
+    "K9": {
+      "well": "K9",
+      "sample": "Pos-1",
+      "group": "Pos",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "K"
+    },
+    "K10": {
+      "well": "K10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K11": {
+      "well": "K11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K12": {
+      "well": "K12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K13": {
+      "well": "K13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K14": {
+      "well": "K14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K15": {
+      "well": "K15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K16": {
+      "well": "K16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K17": {
+      "well": "K17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K18": {
+      "well": "K18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K19": {
+      "well": "K19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K20": {
+      "well": "K20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K21": {
+      "well": "K21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K22": {
+      "well": "K22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K23": {
+      "well": "K23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "K24": {
+      "well": "K24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "K"
+    },
+    "L1": {
+      "well": "L1",
+      "sample": "Pos-2",
+      "group": "Pos",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "L"
+    },
+    "L2": {
+      "well": "L2",
+      "sample": "Pos-2",
+      "group": "Pos",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "L"
+    },
+    "L3": {
+      "well": "L3",
+      "sample": "Pos-2",
+      "group": "Pos",
+      "gene": "Target_A",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "L"
+    },
+    "L4": {
+      "well": "L4",
+      "sample": "Pos-2",
+      "group": "Pos",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "L"
+    },
+    "L5": {
+      "well": "L5",
+      "sample": "Pos-2",
+      "group": "Pos",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "L"
+    },
+    "L6": {
+      "well": "L6",
+      "sample": "Pos-2",
+      "group": "Pos",
+      "gene": "Target_B",
+      "is_reference": false,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "L"
+    },
+    "L7": {
+      "well": "L7",
+      "sample": "Pos-2",
+      "group": "Pos",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 1,
+      "role": "sample",
+      "plate_row": "L"
+    },
+    "L8": {
+      "well": "L8",
+      "sample": "Pos-2",
+      "group": "Pos",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 2,
+      "role": "sample",
+      "plate_row": "L"
+    },
+    "L9": {
+      "well": "L9",
+      "sample": "Pos-2",
+      "group": "Pos",
+      "gene": "REF",
+      "is_reference": true,
+      "technical_replicate": 3,
+      "role": "sample",
+      "plate_row": "L"
+    },
+    "L10": {
+      "well": "L10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L11": {
+      "well": "L11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L12": {
+      "well": "L12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L13": {
+      "well": "L13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L14": {
+      "well": "L14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L15": {
+      "well": "L15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L16": {
+      "well": "L16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L17": {
+      "well": "L17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L18": {
+      "well": "L18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L19": {
+      "well": "L19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L20": {
+      "well": "L20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L21": {
+      "well": "L21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L22": {
+      "well": "L22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L23": {
+      "well": "L23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "L24": {
+      "well": "L24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "L"
+    },
+    "M1": {
+      "well": "M1",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M2": {
+      "well": "M2",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M3": {
+      "well": "M3",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M4": {
+      "well": "M4",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M5": {
+      "well": "M5",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M6": {
+      "well": "M6",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M7": {
+      "well": "M7",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M8": {
+      "well": "M8",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M9": {
+      "well": "M9",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M10": {
+      "well": "M10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M11": {
+      "well": "M11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M12": {
+      "well": "M12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M13": {
+      "well": "M13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M14": {
+      "well": "M14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M15": {
+      "well": "M15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M16": {
+      "well": "M16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M17": {
+      "well": "M17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M18": {
+      "well": "M18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M19": {
+      "well": "M19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M20": {
+      "well": "M20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M21": {
+      "well": "M21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M22": {
+      "well": "M22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M23": {
+      "well": "M23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "M24": {
+      "well": "M24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "M"
+    },
+    "N1": {
+      "well": "N1",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N2": {
+      "well": "N2",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N3": {
+      "well": "N3",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N4": {
+      "well": "N4",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N5": {
+      "well": "N5",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N6": {
+      "well": "N6",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N7": {
+      "well": "N7",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N8": {
+      "well": "N8",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N9": {
+      "well": "N9",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N10": {
+      "well": "N10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N11": {
+      "well": "N11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N12": {
+      "well": "N12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N13": {
+      "well": "N13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N14": {
+      "well": "N14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N15": {
+      "well": "N15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N16": {
+      "well": "N16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N17": {
+      "well": "N17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N18": {
+      "well": "N18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N19": {
+      "well": "N19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N20": {
+      "well": "N20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N21": {
+      "well": "N21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N22": {
+      "well": "N22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N23": {
+      "well": "N23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "N24": {
+      "well": "N24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "N"
+    },
+    "O1": {
+      "well": "O1",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O2": {
+      "well": "O2",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O3": {
+      "well": "O3",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O4": {
+      "well": "O4",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O5": {
+      "well": "O5",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O6": {
+      "well": "O6",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O7": {
+      "well": "O7",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O8": {
+      "well": "O8",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O9": {
+      "well": "O9",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O10": {
+      "well": "O10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O11": {
+      "well": "O11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O12": {
+      "well": "O12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O13": {
+      "well": "O13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O14": {
+      "well": "O14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O15": {
+      "well": "O15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O16": {
+      "well": "O16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O17": {
+      "well": "O17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O18": {
+      "well": "O18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O19": {
+      "well": "O19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O20": {
+      "well": "O20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O21": {
+      "well": "O21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O22": {
+      "well": "O22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O23": {
+      "well": "O23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "O24": {
+      "well": "O24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "O"
+    },
+    "P1": {
+      "well": "P1",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P2": {
+      "well": "P2",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P3": {
+      "well": "P3",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P4": {
+      "well": "P4",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P5": {
+      "well": "P5",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P6": {
+      "well": "P6",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P7": {
+      "well": "P7",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P8": {
+      "well": "P8",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P9": {
+      "well": "P9",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P10": {
+      "well": "P10",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P11": {
+      "well": "P11",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P12": {
+      "well": "P12",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P13": {
+      "well": "P13",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P14": {
+      "well": "P14",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P15": {
+      "well": "P15",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P16": {
+      "well": "P16",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P17": {
+      "well": "P17",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P18": {
+      "well": "P18",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P19": {
+      "well": "P19",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P20": {
+      "well": "P20",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P21": {
+      "well": "P21",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P22": {
+      "well": "P22",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P23": {
+      "well": "P23",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    },
+    "P24": {
+      "well": "P24",
+      "sample": "",
+      "group": "",
+      "gene": "",
+      "is_reference": false,
+      "technical_replicate": null,
+      "role": "empty",
+      "plate_row": "P"
+    }
+  },
+  "genes": [
+    {
+      "name": "Target_A",
+      "is_reference": false,
+      "order": 0
+    },
+    {
+      "name": "Target_B",
+      "is_reference": false,
+      "order": 1
+    },
+    {
+      "name": "REF",
+      "is_reference": true,
+      "order": 2
+    }
+  ]
+}

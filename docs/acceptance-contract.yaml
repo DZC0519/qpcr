@@ -1,0 +1,35 @@
+template_version: 1
+release_decision: PASS
+cases:
+  - id: MAP-001
+    requirement: B/D/F/H 行各选 10-12 列时自动判断技术复孔为横向
+    expected: sample_axis=row
+    status: PASS
+  - id: MAP-002
+    requirement: 精确组别分配只修改所选孔
+    expected: 未选孔的组别和样本保持不变
+    status: PASS
+  - id: MAP-003
+    requirement: 跨行所选孔可应用同一组别和样本号
+    expected: 所选孔 sample_id 全部为 group-sample_number
+    status: PASS
+  - id: MAP-004
+    requirement: 跨行选择多个样本的同一基因时分别编号技术复孔
+    expected: 每个 sample_id 的技术复孔均从 1 开始
+    status: PASS
+  - id: MAP-005
+    requirement: 原有整行整列分组保持兼容
+    expected: 旧测试全部通过
+    status: PASS
+  - id: MAP-006
+    requirement: 384 孔识别和完整板图不受影响
+    expected: plate_format=384 且 384 个孔可显示和选择
+    status: PASS
+  - id: PERSIST-001
+    requirement: 精确选孔模式随工程和模板恢复
+    expected: 重开后 sample_id、group、gene、replicate 不被按行列重编号
+    status: PASS
+  - id: PACKAGE-001
+    requirement: 原版便携目录和 ZIP 可离线启动
+    expected: EXE 启动稳定且分发包不含用户工作簿
+    status: PASS
